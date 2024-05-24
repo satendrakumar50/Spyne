@@ -11,5 +11,7 @@ a. After this you go inside the config.js file there is "content:[]".you modifie
 b. After this you go inside  index.js file, and clear all the code and write 
 
 @tailwind base,
+
 @tailwind components,
+
 @tailwind utilities
