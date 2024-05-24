@@ -4,7 +4,7 @@ Please clone the project in your local machine, and follow a few steps:
 3. npm i -D tailwindcss
 
    
-4.npm tailwind init
+4.npm tailwindcss init
 
 a. After this you go inside the config.js file there is "content:[]".you modified your content to "content: ["./src/**/*.js"]" and saved the file.
 
