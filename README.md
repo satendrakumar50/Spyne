@@ -1,6 +1,6 @@
 Please clone the project in your local machine, and follow a few steps:
 1. npx create react-app assignmentSpyne
-2. 2. npm i react-player
+2. npm i react-player
 
 3. npm i -D tailwindcss
 
